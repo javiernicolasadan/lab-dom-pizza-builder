@@ -1,4 +1,5 @@
 // Write your Pizza Builder JavaScript in this file.
+"test"
 
 // Constants
 const basePrice = 10;
